@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ToDoList from './ToDoList';
+//import ToDoList from './ToDoList';
 
 const randomNum = () => {
   return Math.floor(Math.random() * 1000);
